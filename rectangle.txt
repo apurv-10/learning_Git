@@ -1,0 +1,1 @@
+// Rectangle covering the circle.
